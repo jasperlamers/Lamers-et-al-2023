@@ -1,0 +1,37 @@
+,Seq_Plate,Seq_Well,Sample,Genotype,Treatment,Timepoint,filename,Experiment
+1,1,A1,1,Col-0,Control,6hrs,run0241_A01_S1_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+2,1,A2,2,Col-0,Control,6hrs,run0241_A02_S2_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+3,1,A3,3,Col-0,Control,6hrs,run0241_A03_S3_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+4,1,A4,5,Col-0,NaCl (130mM),6hrs,run0241_A04_S4_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+5,1,A5,122,Col-0,NaCl (130mM),6hrs,run0241_A05_S5_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+6,1,A6,8,Col-0,NaCl (130mM),6hrs,run0241_A06_S6_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+7,1,A7,9,Col-0,Sorbitol (260mM),6hrs,run0241_A07_S7_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+8,1,A8,10,Col-0,Sorbitol (260mM),6hrs,run0241_A08_S8_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+9,1,A9,11,Col-0,Sorbitol (260mM),6hrs,run0241_A09_S9_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+10,1,A10,124,Col-0,ABA (25uM),6hrs,run0241_A10_S10_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+11,1,A11,14,Col-0,ABA (25uM),6hrs,run0241_A11_S11_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+12,1,A12,15,Col-0,ABA (25uM),6hrs,run0241_A12_S12_L001_R1_001.nophix_trimmed.fq.gz.sf,Root
+13,1,B1,17,Col-0,KCl (130mM),6hrs,run0241_B01_S13_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+14,1,B2,19,Col-0,KCl (130mM),6hrs,run0241_B02_S14_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+15,1,B3,20,Col-0,KCl (130mM),6hrs,run0241_B03_S15_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+19,1,B7,26,Col-0,NaNO3 (130mM),6hrs,run0241_B07_S19_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+20,1,B8,27,Col-0,NaNO3 (130mM),6hrs,run0241_B08_S20_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+21,1,B9,28,Col-0,NaNO3 (130mM),6hrs,run0241_B09_S21_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+22,1,B10,29,Col-0,Control,24hrs,run0241_B10_S22_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+23,1,B11,30,Col-0,Control,24hrs,run0241_B11_S23_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+24,1,B12,31,Col-0,Control,24hrs,run0241_B12_S24_L002_R1_001.nophix_trimmed.fq.gz.sf,Root
+25,1,C1,33,Col-0,NaCl (130mM),24hrs,run0241_C01_S25_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+26,1,C2,34,Col-0,NaCl (130mM),24hrs,run0241_C02_S26_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+27,1,C3,35,Col-0,NaCl (130mM),24hrs,run0241_C03_S27_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+28,1,C4,37,Col-0,Sorbitol (260mM),24hrs,run0241_C04_S28_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+29,1,C5,38,Col-0,Sorbitol (260mM),24hrs,run0241_C05_S29_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+30,1,C6,40,Col-0,Sorbitol (260mM),24hrs,run0241_C06_S30_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+31,1,C7,41,Col-0,ABA (25uM),24hrs,run0241_C07_S31_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+32,1,C8,42,Col-0,ABA (25uM),24hrs,run0241_C08_S32_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+33,1,C9,43,Col-0,ABA (25uM),24hrs,run0241_C09_S33_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+34,1,C10,46,Col-0,KCl (130mM),24hrs,run0241_C10_S34_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+35,1,C11,47,Col-0,KCl (130mM),24hrs,run0241_C11_S35_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+36,1,C12,48,Col-0,KCl (130mM),24hrs,run0241_C12_S36_L003_R1_001.nophix_trimmed.fq.gz.sf,Root
+40,1,D4,54,Col-0,NaNO3 (130mM),24hrs,run0241_D04_S40_L004_R1_001.nophix_trimmed.fq.gz.sf,Root
+41,1,D5,55,Col-0,NaNO3 (130mM),24hrs,run0241_D05_S41_L004_R1_001.nophix_trimmed.fq.gz.sf,Root
+42,1,D6,56,Col-0,NaNO3 (130mM),24hrs,run0241_D06_S42_L004_R1_001.nophix_trimmed.fq.gz.sf,Root
